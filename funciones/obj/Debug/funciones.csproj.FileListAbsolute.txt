@@ -1,0 +1,6 @@
+C:\Users\shavi\Desktop\funciones\funciones\bin\Debug\funciones.exe
+C:\Users\shavi\Desktop\funciones\funciones\bin\Debug\funciones.pdb
+C:\Users\shavi\Desktop\funciones\funciones\obj\Debug\funciones.csprojAssemblyReference.cache
+C:\Users\shavi\Desktop\funciones\funciones\obj\Debug\funciones.csproj.CoreCompileInputs.cache
+C:\Users\shavi\Desktop\funciones\funciones\obj\Debug\funciones.exe
+C:\Users\shavi\Desktop\funciones\funciones\obj\Debug\funciones.pdb
